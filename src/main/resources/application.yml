@@ -1,7 +1,7 @@
-server:
-  port: 443
-  ssl:
-    key-alias: iworks
-    key-store: classpath:keyStore
-    key-store-password: changeit
-    enabled: true
+#server:
+#  port: 443
+#  ssl:
+#    key-alias: iworks
+#    key-store: classpath:keyStore
+#    key-store-password: changeit
+#    enabled: true
